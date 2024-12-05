@@ -8,8 +8,8 @@ missions:
     end: 2025-07-31
     status: admin
     employer: DGITM
-    startups:
-      - transport
+previously:
+  - transport
 memberType: dinum
 link: https://www.linkedin.com/in/jorge-gonzalez-suitt/
 competences: []

@@ -43,7 +43,7 @@ stats_url: https://transport.data.gouv.fr/stats
 ---
 ## Le problème que résout transport.data.gouv.fr
 
-Dans un pays avec plus de 330 réseaux de transports urbains et des dizaines de milliers de points d’arrêts, il est parfois difficile de trouver le meilleur moyen de se rendre d’un point A à un point B. 
+Dans un pays avec plus de 330 réseaux de transports urbains et des dizaines de milliers de points d’arrêts, il est parfois difficile de trouver le meilleur moyen de se rendre d’un point A à un point B.
 
 Transport.data.gouv.fr a pour mission de faciliter les déplacements des usagers en permettant à tout un chacun de déterminer le plus simplement possible la meilleure option de mobilité lors d’un trajet : bus, tram, ferry, métro, vélo, voiture… ou tout à la fois !
 
@@ -51,9 +51,9 @@ Les données de transport, lorsqu'elles existent, sont exposées sur différents
 
 ## Les résultats
 
-Avec plus de 350 jeux de données référencés, transport.data.gouv.fr est une des plateformes de données de transport les plus plébiscitées par les réutilisateurs de données et acteurs de mobilité comme les applications grand public de calculateurs d’itinéraires. A ce jour, elle couvre plus de 90% de la population française dans 14 régions.
+Avec plus de 600 jeux de données référencés et environ 4000 visites par jour, transport.data.gouv.fr est une des plateformes de données de transport les plus plébiscitées par les réutilisateurs de données et acteurs de mobilité comme les applications grand public de calculateurs d’itinéraires. A ce jour, elle couvre plus de 90% de la population française dans 14 régions.
 
-Les statistiques complètes sont disponibles à https://transport.data.gouv.fr/stats.
+Les statistiques complètes sont disponibles à [https://transport.data.gouv.fr/stats](https://transport.data.gouv.fr/stats).
 
 ## Intégration de transport.data.gouv.fr au sein du ministère chargé des Transports
 
